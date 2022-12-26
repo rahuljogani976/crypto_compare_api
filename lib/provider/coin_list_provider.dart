@@ -10,6 +10,7 @@ class ChainDataProvider with ChangeNotifier {
   bool isPriceMultiLoading = false;
 
 
+
   getPriceMultiDetails(data) async {
     print("hdwbjhkdejhkf");
     isPriceMultiLoading = true;
